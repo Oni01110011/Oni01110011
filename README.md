@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-![](https://dcbadge.vercel.app/api/shield/397017180652437507)
+<img src="https://dcbadge.vercel.app/api/shield/397017180652437507" />
 <img align="left" alt="Oni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="Oni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="Oni | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
