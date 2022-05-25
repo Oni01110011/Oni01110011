@@ -1,4 +1,4 @@
-## Hi there, I'm Bernhard - aka [Oni] 👋
+## Hey there, I'm Bernhard - aka [Oni] 👋
 
 ## I am a Student and a ethical Hacker!
 - 🔭 I'm currently working on my Website!
