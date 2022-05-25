@@ -13,7 +13,7 @@
 <img align="left" alt="Oni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="Oni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="Oni | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-<a href="https://www.youtube.com/channel/UCexkoW55dKUyvgx4rSs7blA"<img align="left" alt="Oni | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>/>
+<img align="left" alt="Oni | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" href="https://www.youtube.com/channel/UCexkoW55dKUyvgx4rSs7blA"/>
 
 <br />
 
