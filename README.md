@@ -9,10 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-[<img align="left" alt="YouTube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />[https://www.youtube.com/channel/UCexkoW55dKUyvgx4rSs7blA]
+![](https://dcbadge.vercel.app/api/shield/406125028065804289)
+<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+<img align="left" alt="YouTube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 
 
 <br />
