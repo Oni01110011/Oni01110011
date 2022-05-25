@@ -1,6 +1,6 @@
 ## Hi there, I'm Bernhard - aka [Oni] 👋
 
-## I am a Junior Full Stack Developer and a ethical Hacker!
+## I am a Student and a ethical Hacker!
 - 🔭 I'm currently working on my Website!
 - 🪴 I'm currently learning Hacking with Python & Math 😃
 - 👬 I'm not looking for someone to collaborate with
@@ -40,6 +40,20 @@
 
   <img align="left" alt="Oni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oni01110011&show_icons=true&theme=tokyonight" />
 
+### 📺 Latest YouTube Videos
 
+<!-- YOUTUBE:START -->
+- Working on my first one
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/Oni)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Working on some 
+<!-- BLOG-POST-LIST:END -->
 
 
