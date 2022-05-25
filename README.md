@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-![](https://dcbadge.vercel.app/api/shield/406125028065804289)
+![](https://dcbadge.vercel.app/api/shield/397017180652437507)
 <img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 <img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
