@@ -5,15 +5,15 @@
 - 🪴 I'm currently learning Hacking with Python & Math 😃
 - 👬 I'm not looking for someone to collaborate with
 - 🥅 2022 Goals: Expand my knowledge in every way possible
-- ⚡️ Funfact: I started hitting the gym because I got hurt
+- ⚡️ A Fact: I started hitting the gym because I got emotionaly hurt
 
 ### Connect with me:
 
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+[<img align="left" alt="YouTube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />[https://www.youtube.com/channel/UCexkoW55dKUyvgx4rSs7blA]
 
-<img align="left" alt="Oni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Oni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Oni | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-<img align="left" alt="Oni | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"<a href="https://www.youtube.com/channel/UCexkoW55dKUyvgx4rSs7blA" />
 
 <br />
 
