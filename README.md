@@ -40,13 +40,18 @@
 
   <img align="left" alt="Oni's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oni01110011&show_icons=true&theme=tokyonight" />
 
+<br />
+<br />
+<br />
+
 ### 📺 Latest YouTube Videos
+
 
 <!-- YOUTUBE:START -->
 - Working on my first one
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/Oni)
+➡️ [more videos...](https://youtube.com/Oni](https://www.youtube.com/channel/UCexkoW55dKUyvgx4rSs7blA)
 
 ---
 
