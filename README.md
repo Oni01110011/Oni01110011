@@ -5,7 +5,7 @@
 - 🪴 I'm currently learning Hacking with Python & Math 😃
 - 👬 I'm not looking for someone to collaborate with
 - 🥅 2022 Goals: Expand my knowledge in every way possible
-- ⚡️ A Fact: I started hitting the gym because I got emotionaly hurt
+- ⚡️ A Funfact: I started hitting the gym 
 
 ### Connect with me:
 
