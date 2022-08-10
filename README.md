@@ -1,6 +1,6 @@
 ## Hey there, I'm Bernhard - aka [Oni] 👋
 
-## I am a Student and a ethical Hacker!
+## I am a Student and an ethical Hacker!
 - 🔭 I'm currently working on my Website!
 - 🪴 I'm currently learning Hacking with Python & Math 😃
 - 👬 I'm not looking for someone to collaborate with
