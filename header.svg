@@ -1,0 +1,106 @@
+<svg fill="none" viewBox="0 0 700 130" width="700" height="130" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .wrapper {
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Helvetica, sans-serif;
+          user-select: none;
+        }
+
+        /* Responsive Text Colors */
+        .title {
+          font-size: 46px;
+          font-weight: 800;
+          letter-spacing: -0.04em;
+          margin: 0;
+          line-height: 1;
+          background: linear-gradient(90deg, #111827 0%, #6b7280 50%, #111827 100%);
+          background-size: 200% auto;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: shine 4s linear infinite;
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .title {
+            background: linear-gradient(90deg, #ffffff 0%, #71717a 50%, #ffffff 100%);
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+          }
+        }
+
+        /* Expanding Minimal Divider */
+        .line-track {
+          width: 100%;
+          height: 1px;
+          background: #e5e7eb;
+          margin: 14px 0 16px 0;
+          position: relative;
+          overflow: hidden;
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .line-track { background: #27272a; }
+        }
+
+        .line-glow {
+          position: absolute;
+          top: 0;
+          left: 0;
+          height: 100%;
+          width: 45%;
+          background: linear-gradient(90deg, transparent, #3b82f6, transparent);
+          animation: sweep 3.5s ease-in-out infinite;
+        }
+
+        /* Subtitle with terminal-style typing */
+        .subtitle {
+          font-family: "SF Mono", Monaco, "Cascadia Code", Menlo, monospace;
+          font-size: 15px;
+          color: #4b5563;
+          margin: 0;
+          white-space: nowrap;
+          overflow: hidden;
+          width: 0;
+          border-right: 2px solid #3b82f6;
+          animation: 
+            type 1.5s steps(13, end) 0.5s forwards,
+            cursor-blink 0.85s infinite;
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .subtitle { color: #a1a1aa; }
+        }
+
+        /* Animations */
+        @keyframes shine {
+          to { background-position: 200% center; }
+        }
+
+        @keyframes sweep {
+          0% { transform: translateX(-100%); }
+          50%, 100% { transform: translateX(250%); }
+        }
+
+        @keyframes type {
+          from { width: 0; }
+          to { width: 135px; }
+        }
+
+        @keyframes cursor-blink {
+          0%, 49% { border-color: #3b82f6; }
+          50%, 100% { border-color: transparent; }
+        }
+      </style>
+
+      <div class="wrapper">
+        <h1 class="title">Hi</h1>
+        <div class="line-track">
+          <div class="line-glow"></div>
+        </div>
+        <p class="subtitle">I make things</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
